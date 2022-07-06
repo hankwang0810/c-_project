@@ -12,11 +12,13 @@ int rand_num ()
 	
 	return num;
 	
+	
 }
 
 
 
 int main(){
+    cout <<"hello world"<<endl;
     
     srand(time(NULL));
     
